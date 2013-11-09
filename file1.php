@@ -1,14 +1,14 @@
-sadfasdfasafsaf
-sdfasdfasdfasdfasfdasf
-<div>
-	<h1>Awesome Test 2</h1>
+<head></head>
+<body>
+	<div>
+		<h1>Awesome Test</h1>
+		<p>Why is GIT so awesome? Look at all of these magical changes!</p>
+	</div>
 
-<!--sdfakljksjdfsadf
-sadfasfasdf
-adfasfdasdfasdfasdf
-asdfasfdsaf-->
-
-WHO WTOTE THIS? BREAKING OUR CODE!
-
-I don't think it was Chris
-</div>
+	<div><p>this is a new section</p></div>
+	 
+	CHRIS ADDED THIS
+<footer>
+	yup, foot
+</footer>
+</body>
